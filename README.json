@@ -1,0 +1,360 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tide",
+          "description": "A modern prompt manager for Fish",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-12-15T23:02:13Z",
+            "owner": "IlanCosman",
+            "repo": "tide",
+            "stars": 4219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pure",
+          "description": "That ZSH prompt, now in Fish flavor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-05T13:45:45Z",
+            "owner": "pure-fish",
+            "repo": "pure",
+            "stars": 1579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hydro",
+          "description": "Lag-free prompt with async Git status (ooh la la)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-24T13:28:42Z",
+            "owner": "jorgebucaran",
+            "repo": "hydro",
+            "stars": 964
+          }
+        }
+      ],
+      "title": "Prompts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fisher",
+          "description": "Manage functions, completions, bindings, and snippets from the CLI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-31T04:23:23Z",
+            "owner": "jorgebucaran",
+            "repo": "fisher",
+            "stars": 9391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nvm",
+          "description": "Node.js version manager lovingly made for Fish",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-22T12:19:19Z",
+            "owner": "jorgebucaran",
+            "repo": "nvm.fish",
+            "stars": 2710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fzf",
+          "description": "Ef-🐟-ient key bindings for . (Alternative)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-18T23:25:12Z",
+            "owner": "PatrickF1",
+            "repo": "fzf.fish",
+            "stars": 2675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "z",
+          "description": "Pure-Fish -like directory jumping",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-16T11:39:50Z",
+            "owner": "jethrokuan",
+            "repo": "z",
+            "stars": 1527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Virtualfish",
+          "description": "Virtualenv wrapper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-11-27T19:24:18Z",
+            "owner": "justinmayer",
+            "repo": "virtualfish",
+            "stars": 1092
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Done",
+          "description": "Automatically receive notifications after a long process finishes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-14T22:38:55Z",
+            "owner": "franciscolourenco",
+            "repo": "done",
+            "stars": 953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autopair",
+          "description": "Auto-complete matching pairs in the Fish command-line. (Alternative)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-07-04T16:00:24Z",
+            "owner": "jorgebucaran",
+            "repo": "autopair.fish",
+            "stars": 575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Async Prompt",
+          "description": "Make your prompt asynchronous",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-05T12:09:06Z",
+            "owner": "acomagu",
+            "repo": "fish-async-prompt",
+            "stars": 543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitNow",
+          "description": "A collection of utility functions to speed up your git workflow",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-28T20:50:53Z",
+            "owner": "joseluisq",
+            "repo": "gitnow",
+            "stars": 490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Replay",
+          "description": "Run Bash commands replaying changes in Fish. (Alternative)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-07-01T03:53:07Z",
+            "owner": "jorgebucaran",
+            "repo": "replay.fish",
+            "stars": 482
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sponge",
+          "description": "Clean command history from typos automatically",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-01-21T02:38:40Z",
+            "owner": "meaningful-ooo",
+            "repo": "sponge",
+            "stars": 450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pufferfish",
+          "description": "Text Expansions for Fish",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-11-13T19:29:19Z",
+            "owner": "nickeb96",
+            "repo": "puffer-fish",
+            "stars": 427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fishtape",
+          "description": "TAP-based test runner for Fish",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-05-26T11:16:10Z",
+            "owner": "jorgebucaran",
+            "repo": "fishtape",
+            "stars": 384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fundle",
+          "description": "-based plugin manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-01-05T16:21:45Z",
+            "owner": "danhper",
+            "repo": "fundle",
+            "stars": 383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spark",
+          "description": "Sparklines for Fish",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-01-16T05:39:49Z",
+            "owner": "jorgebucaran",
+            "repo": "spark.fish",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Abbreviation Tips",
+          "description": "Remembering abbreviations by displaying tips when you can use them",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-02-06T20:09:47Z",
+            "owner": "gazorby",
+            "repo": "fish-abbreviation-tips",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Getopts",
+          "description": "CLI options parser (alternative to the builtin)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-04-15T13:54:48Z",
+            "owner": "jorgebucaran",
+            "repo": "getopts.fish",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apple Touchbar",
+          "description": "Customize your Touch Bar in iTerm2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-04-29T15:56:25Z",
+            "owner": "rodrigobdz",
+            "repo": "fish-apple-touchbar",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Projectdo",
+          "description": "Context-aware single-letter abbreviations to build, run, and test any project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-25T19:00:36Z",
+            "owner": "paldepind",
+            "repo": "projectdo",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Magic Enter",
+          "description": "Run a default command when no command was given",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-04-07T20:16:38Z",
+            "owner": "mattmc3",
+            "repo": "magic-enter.fish",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Base16 Fish",
+          "description": "A pure Fish solution to change your shell's default ANSI colors",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2025-04-08T10:50:20Z",
+            "owner": "FabioAntunes",
+            "repo": "base16-fish-shell",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "Plugins"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:02:54.038Z",
+    "original_repository": "jorgebucaran/awsm.fish",
+    "original_repository_sha": "602fdb24b148a399e6bcf53dceefca3760725cb5",
+    "enhanced_repository": "enhansome/enhansome-awsm.fish",
+    "enhanced_repository_description": null,
+    "title": "Awesome awsm.fish with stars"
+  }
+}
