@@ -14,7 +14,7 @@
             "last_commit": "2025-12-15T23:02:13Z",
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4219
+            "stars": 4220
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-01-31T04:23:23Z",
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9391
+            "stars": 9393
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2022-07-04T16:00:24Z",
             "owner": "jorgebucaran",
             "repo": "autopair.fish",
-            "stars": 575
+            "stars": 574
           }
         },
         {
@@ -350,7 +350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T08:02:54.038Z",
+    "last_updated": "2026-08-14T07:58:41.743Z",
     "original_repository": "jorgebucaran/awsm.fish",
     "original_repository_sha": "602fdb24b148a399e6bcf53dceefca3760725cb5",
     "enhanced_repository": "enhansome/enhansome-awsm.fish",
