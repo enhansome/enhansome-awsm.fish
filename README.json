@@ -14,7 +14,7 @@
             "last_commit": "2025-12-15T23:02:13Z",
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4220
+            "stars": 4221
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-05-05T13:45:45Z",
             "owner": "pure-fish",
             "repo": "pure",
-            "stars": 1579
+            "stars": 1580
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-02-24T13:28:42Z",
             "owner": "jorgebucaran",
             "repo": "hydro",
-            "stars": 964
+            "stars": 965
           }
         }
       ],
@@ -62,7 +62,7 @@
             "last_commit": "2026-01-31T04:23:23Z",
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9393
+            "stars": 9391
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-06-22T12:19:19Z",
             "owner": "jorgebucaran",
             "repo": "nvm.fish",
-            "stars": 2710
+            "stars": 2711
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-06-14T22:38:55Z",
             "owner": "franciscolourenco",
             "repo": "done",
-            "stars": 953
+            "stars": 954
           }
         },
         {
@@ -350,7 +350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T07:58:41.743Z",
+    "last_updated": "2026-08-15T07:08:20.413Z",
     "original_repository": "jorgebucaran/awsm.fish",
     "original_repository_sha": "602fdb24b148a399e6bcf53dceefca3760725cb5",
     "enhanced_repository": "enhansome/enhansome-awsm.fish",
