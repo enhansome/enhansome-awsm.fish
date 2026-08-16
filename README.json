@@ -28,7 +28,7 @@
             "last_commit": "2026-05-05T13:45:45Z",
             "owner": "pure-fish",
             "repo": "pure",
-            "stars": 1580
+            "stars": 1581
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-01-31T04:23:23Z",
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9391
+            "stars": 9393
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-06-18T23:25:12Z",
             "owner": "PatrickF1",
             "repo": "fzf.fish",
-            "stars": 2675
+            "stars": 2676
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2026-04-16T11:39:50Z",
             "owner": "jethrokuan",
             "repo": "z",
-            "stars": 1527
+            "stars": 1528
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2022-07-04T16:00:24Z",
             "owner": "jorgebucaran",
             "repo": "autopair.fish",
-            "stars": 574
+            "stars": 573
           }
         },
         {
@@ -221,20 +221,6 @@
         },
         {
           "node_type": "item",
-          "title": "Fishtape",
-          "description": "TAP-based test runner for Fish",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2024-05-26T11:16:10Z",
-            "owner": "jorgebucaran",
-            "repo": "fishtape",
-            "stars": 384
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Fundle",
           "description": "-based plugin manager",
           "children": [],
@@ -244,6 +230,20 @@
             "last_commit": "2023-01-05T16:21:45Z",
             "owner": "danhper",
             "repo": "fundle",
+            "stars": 383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fishtape",
+          "description": "TAP-based test runner for Fish",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-05-26T11:16:10Z",
+            "owner": "jorgebucaran",
+            "repo": "fishtape",
             "stars": 383
           }
         },
@@ -350,7 +350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:08:20.413Z",
+    "last_updated": "2026-08-16T07:10:48.063Z",
     "original_repository": "jorgebucaran/awsm.fish",
     "original_repository_sha": "602fdb24b148a399e6bcf53dceefca3760725cb5",
     "enhanced_repository": "enhansome/enhansome-awsm.fish",
