@@ -15,7 +15,7 @@
             "last_commit": "2025-12-15T23:02:13Z",
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4236
+            "stars": 4237
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-01-31T04:23:23Z",
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9398
+            "stars": 9399
           }
         },
         {
@@ -374,8 +374,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:22:19.583Z",
+    "last_updated": "2026-08-19T12:20:11.911Z",
     "original_repository": "jorgebucaran/awsm.fish",
+    "original_repository_id": 44163137,
     "original_repository_sha": "602fdb24b148a399e6bcf53dceefca3760725cb5",
     "enhanced_repository": "enhansome/enhansome-awsm.fish",
     "enhanced_repository_description": null,
