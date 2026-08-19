@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 252351960,
             "language": "Shell",
             "last_commit": "2025-12-15T23:02:13Z",
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4224
+            "stars": 4236
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44034341,
             "language": "Shell",
             "last_commit": "2026-05-05T13:45:45Z",
             "owner": "pure-fish",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 166628414,
             "language": "Shell",
             "last_commit": "2026-02-24T13:28:42Z",
             "owner": "jorgebucaran",
@@ -49,7 +52,7 @@
       "title": "Prompts"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43098836,
             "language": "Shell",
             "last_commit": "2026-01-31T04:23:23Z",
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9395
+            "stars": 9398
           }
         },
         {
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56083732,
             "language": "Shell",
             "last_commit": "2026-06-22T12:19:19Z",
             "owner": "jorgebucaran",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 260274833,
             "language": "Shell",
             "last_commit": "2026-06-18T23:25:12Z",
             "owner": "PatrickF1",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52677844,
             "language": "Shell",
             "last_commit": "2026-04-16T11:39:50Z",
             "owner": "jethrokuan",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4847490,
             "language": "Shell",
             "last_commit": "2024-11-27T19:24:18Z",
             "owner": "justinmayer",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72852783,
             "language": "Shell",
             "last_commit": "2026-06-14T22:38:55Z",
             "owner": "franciscolourenco",
@@ -142,11 +151,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165573372,
             "language": "Shell",
             "last_commit": "2022-07-04T16:00:24Z",
             "owner": "jorgebucaran",
             "repo": "autopair.fish",
-            "stars": 573
+            "stars": 572
           }
         },
         {
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116143464,
             "language": "Shell",
             "last_commit": "2026-01-05T12:09:06Z",
             "owner": "acomagu",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200592061,
             "language": "Shell",
             "last_commit": "2026-07-28T20:50:53Z",
             "owner": "joseluisq",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25407377,
             "language": "Shell",
             "last_commit": "2024-07-01T03:53:07Z",
             "owner": "jorgebucaran",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 264188065,
             "language": "Shell",
             "last_commit": "2024-01-21T02:38:40Z",
             "owner": "meaningful-ooo",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188087066,
             "language": "Shell",
             "last_commit": "2025-11-13T19:29:19Z",
             "owner": "nickeb96",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45519340,
             "language": "Shell",
             "last_commit": "2023-01-05T16:21:45Z",
             "owner": "danhper",
@@ -240,11 +256,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31851515,
             "language": "Shell",
             "last_commit": "2024-05-26T11:16:10Z",
             "owner": "jorgebucaran",
             "repo": "fishtape",
-            "stars": 383
+            "stars": 382
           }
         },
         {
@@ -254,11 +271,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29033523,
             "language": "Shell",
             "last_commit": "2021-01-16T05:39:49Z",
             "owner": "jorgebucaran",
             "repo": "spark.fish",
-            "stars": 379
+            "stars": 380
           }
         },
         {
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 255135894,
             "language": "Shell",
             "last_commit": "2024-02-06T20:09:47Z",
             "owner": "gazorby",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29534850,
             "language": "Shell",
             "last_commit": "2025-04-15T13:54:48Z",
             "owner": "jorgebucaran",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159330302,
             "language": "Shell",
             "last_commit": "2022-04-29T15:56:25Z",
             "owner": "rodrigobdz",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175886113,
             "language": "Shell",
             "last_commit": "2026-04-25T19:00:36Z",
             "owner": "paldepind",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 424459441,
             "language": "Shell",
             "last_commit": "2025-04-07T20:16:38Z",
             "owner": "mattmc3",
@@ -338,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 247160187,
             "language": "Shell",
             "last_commit": "2025-04-08T10:50:20Z",
             "owner": "FabioAntunes",
@@ -350,7 +374,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:21:23.230Z",
+    "last_updated": "2026-08-19T07:22:19.583Z",
     "original_repository": "jorgebucaran/awsm.fish",
     "original_repository_sha": "602fdb24b148a399e6bcf53dceefca3760725cb5",
     "enhanced_repository": "enhansome/enhansome-awsm.fish",
