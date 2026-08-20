@@ -15,7 +15,7 @@
             "last_commit": "2025-12-15T23:02:13Z",
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4237
+            "stars": 4243
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-02-24T13:28:42Z",
             "owner": "jorgebucaran",
             "repo": "hydro",
-            "stars": 965
+            "stars": 964
           }
         }
       ],
@@ -96,7 +96,7 @@
             "last_commit": "2026-06-18T23:25:12Z",
             "owner": "PatrickF1",
             "repo": "fzf.fish",
-            "stars": 2675
+            "stars": 2676
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-06-14T22:38:55Z",
             "owner": "franciscolourenco",
             "repo": "done",
-            "stars": 954
+            "stars": 955
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2022-07-04T16:00:24Z",
             "owner": "jorgebucaran",
             "repo": "autopair.fish",
-            "stars": 572
+            "stars": 573
           }
         },
         {
@@ -374,7 +374,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:20:11.911Z",
+    "last_updated": "2026-08-20T07:24:29.533Z",
     "original_repository": "jorgebucaran/awsm.fish",
     "original_repository_id": 44163137,
     "original_repository_sha": "602fdb24b148a399e6bcf53dceefca3760725cb5",
