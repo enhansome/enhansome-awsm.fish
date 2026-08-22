@@ -30,7 +30,7 @@
             "last_commit": "2026-05-05T13:45:45Z",
             "owner": "pure-fish",
             "repo": "pure",
-            "stars": 1583
+            "stars": 1585
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-06-18T23:25:12Z",
             "owner": "PatrickF1",
             "repo": "fzf.fish",
-            "stars": 2676
+            "stars": 2679
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-04-16T11:39:50Z",
             "owner": "jethrokuan",
             "repo": "z",
-            "stars": 1528
+            "stars": 1529
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2024-01-21T02:38:40Z",
             "owner": "meaningful-ooo",
             "repo": "sponge",
-            "stars": 449
+            "stars": 450
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2024-02-06T20:09:47Z",
             "owner": "gazorby",
             "repo": "fish-abbreviation-tips",
-            "stars": 379
+            "stars": 380
           }
         },
         {
@@ -374,7 +374,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T07:25:46.534Z",
+    "last_updated": "2026-08-22T07:10:35.142Z",
     "original_repository": "jorgebucaran/awsm.fish",
     "original_repository_id": 44163137,
     "original_repository_sha": "602fdb24b148a399e6bcf53dceefca3760725cb5",
