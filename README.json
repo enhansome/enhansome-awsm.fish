@@ -5,6 +5,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "GitHub Repository",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4279682,
+            "language": "Rust",
+            "last_commit": "2026-08-23T20:45:07Z",
+            "owner": "fish-shell",
+            "repo": "fish-shell",
+            "stars": 34056
+          }
+        }
+      ],
+      "title": "Official Resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Fish Cookbook",
+          "description": "From Shell to Plate: Savor the Zest of Fish 🦞",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49824648,
+            "language": null,
+            "last_commit": "2023-09-04T02:25:59Z",
+            "owner": "jorgebucaran",
+            "repo": "cookbook.fish",
+            "stars": 2152
+          }
+        }
+      ],
+      "title": "Community Resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Tide",
           "description": "A modern prompt manager for Fish",
           "children": [],
@@ -45,7 +87,7 @@
             "last_commit": "2026-02-24T13:28:42Z",
             "owner": "jorgebucaran",
             "repo": "hydro",
-            "stars": 964
+            "stars": 965
           }
         }
       ],
@@ -96,7 +138,7 @@
             "last_commit": "2026-06-18T23:25:12Z",
             "owner": "PatrickF1",
             "repo": "fzf.fish",
-            "stars": 2681
+            "stars": 2682
           }
         },
         {
@@ -374,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:40:28.308Z",
+    "last_updated": "2026-08-24T13:55:44.586Z",
     "original_repository": "jorgebucaran/awsm.fish",
     "original_repository_id": 44163137,
     "original_repository_sha": "602fdb24b148a399e6bcf53dceefca3760725cb5",
