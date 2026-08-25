@@ -34,7 +34,7 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 
 * [Fisher](https://github.com/jorgebucaran/fisher) ⭐ 9,402 | 🐛 11 | 🌐 Shell | 📅 2026-01-31 - Manage functions, completions, bindings, and snippets from the CLI
 * [nvm](https://github.com/jorgebucaran/nvm.fish) ⭐ 2,709 | 🐛 12 | 🌐 Shell | 📅 2026-06-22 - Node.js version manager lovingly made for Fish
-* [fzf](https://github.com/PatrickF1/fzf.fish) ⭐ 2,682 | 🐛 1 | 🌐 Shell | 📅 2026-06-18 - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf) ⭐ 82,640 | 🐛 327 | 🌐 Go | 📅 2026-08-24. ([Alternative](https://github.com/jethrokuan/fzf) ⭐ 906 | 🐛 28 | 🌐 Shell | 📅 2022-03-05)
+* [fzf](https://github.com/PatrickF1/fzf.fish) ⭐ 2,682 | 🐛 1 | 🌐 Shell | 📅 2026-06-18 - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf) ⭐ 82,641 | 🐛 327 | 🌐 Go | 📅 2026-08-24. ([Alternative](https://github.com/jethrokuan/fzf) ⭐ 906 | 🐛 28 | 🌐 Shell | 📅 2022-03-05)
 * [z](https://github.com/jethrokuan/z) ⭐ 1,530 | 🐛 17 | 🌐 Shell | 📅 2026-04-16 - Pure-Fish [`rupa/z`](https://github.com/rupa/z) ⭐ 17,044 | 🐛 107 | 🌐 Shell | 📅 2024-06-19-like directory jumping
 * [Virtualfish](https://github.com/adambrenecki/virtualfish) ⭐ 1,093 | 🐛 25 | 🌐 Shell | 📅 2024-11-27 - Virtualenv wrapper
 * [Done](https://github.com/franciscolourenco/done) ⭐ 956 | 🐛 22 | 🌐 Shell | 📅 2026-06-14 - Automatically receive notifications after a long process finishes
