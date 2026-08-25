@@ -12,10 +12,10 @@
             "archived": false,
             "id": 4279682,
             "language": "Rust",
-            "last_commit": "2026-08-23T20:45:07Z",
+            "last_commit": "2026-08-25T00:47:04Z",
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34056
+            "stars": 34058
           }
         }
       ],
@@ -57,7 +57,7 @@
             "last_commit": "2025-12-15T23:02:13Z",
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4248
+            "stars": 4249
           }
         },
         {
@@ -87,7 +87,7 @@
             "last_commit": "2026-02-24T13:28:42Z",
             "owner": "jorgebucaran",
             "repo": "hydro",
-            "stars": 965
+            "stars": 966
           }
         }
       ],
@@ -108,7 +108,7 @@
             "last_commit": "2026-01-31T04:23:23Z",
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9401
+            "stars": 9402
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2026-04-16T11:39:50Z",
             "owner": "jethrokuan",
             "repo": "z",
-            "stars": 1529
+            "stars": 1530
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2022-07-04T16:00:24Z",
             "owner": "jorgebucaran",
             "repo": "autopair.fish",
-            "stars": 573
+            "stars": 574
           }
         },
         {
@@ -273,7 +273,7 @@
             "last_commit": "2025-11-13T19:29:19Z",
             "owner": "nickeb96",
             "repo": "puffer-fish",
-            "stars": 427
+            "stars": 429
           }
         },
         {
@@ -416,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:55:44.586Z",
+    "last_updated": "2026-08-25T05:51:44.565Z",
     "original_repository": "jorgebucaran/awsm.fish",
     "original_repository_id": 44163137,
     "original_repository_sha": "602fdb24b148a399e6bcf53dceefca3760725cb5",
