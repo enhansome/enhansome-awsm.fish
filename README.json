@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T00:47:04Z",
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34058
+            "stars": 34067
           }
         }
       ],
@@ -108,7 +108,7 @@
             "last_commit": "2026-01-31T04:23:23Z",
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9402
+            "stars": 9401
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-06-18T23:25:12Z",
             "owner": "PatrickF1",
             "repo": "fzf.fish",
-            "stars": 2682
+            "stars": 2683
           }
         },
         {
@@ -183,7 +183,7 @@
             "last_commit": "2026-06-14T22:38:55Z",
             "owner": "franciscolourenco",
             "repo": "done",
-            "stars": 956
+            "stars": 957
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2022-07-04T16:00:24Z",
             "owner": "jorgebucaran",
             "repo": "autopair.fish",
-            "stars": 574
+            "stars": 575
           }
         },
         {
@@ -308,21 +308,6 @@
         },
         {
           "node_type": "item",
-          "title": "Spark",
-          "description": "Sparklines for Fish",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 29033523,
-            "language": "Shell",
-            "last_commit": "2021-01-16T05:39:49Z",
-            "owner": "jorgebucaran",
-            "repo": "spark.fish",
-            "stars": 380
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Abbreviation Tips",
           "description": "Remembering abbreviations by displaying tips when you can use them",
           "children": [],
@@ -333,6 +318,21 @@
             "last_commit": "2024-02-06T20:09:47Z",
             "owner": "gazorby",
             "repo": "fish-abbreviation-tips",
+            "stars": 381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spark",
+          "description": "Sparklines for Fish",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29033523,
+            "language": "Shell",
+            "last_commit": "2021-01-16T05:39:49Z",
+            "owner": "jorgebucaran",
+            "repo": "spark.fish",
             "stars": 380
           }
         },
@@ -416,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:27:03.814Z",
+    "last_updated": "2026-08-26T07:28:18.441Z",
     "original_repository": "jorgebucaran/awsm.fish",
     "original_repository_id": 44163137,
     "original_repository_sha": "602fdb24b148a399e6bcf53dceefca3760725cb5",
