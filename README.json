@@ -12,10 +12,10 @@
             "archived": false,
             "id": 4279682,
             "language": "Rust",
-            "last_commit": "2026-08-25T00:47:04Z",
+            "last_commit": "2026-08-27T10:29:50Z",
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34067
+            "stars": 34070
           }
         }
       ],
@@ -57,7 +57,7 @@
             "last_commit": "2025-12-15T23:02:13Z",
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4249
+            "stars": 4248
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-06-18T23:25:12Z",
             "owner": "PatrickF1",
             "repo": "fzf.fish",
-            "stars": 2683
+            "stars": 2684
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2024-11-27T19:24:18Z",
             "owner": "justinmayer",
             "repo": "virtualfish",
-            "stars": 1093
+            "stars": 1092
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2026-01-05T12:09:06Z",
             "owner": "acomagu",
             "repo": "fish-async-prompt",
-            "stars": 545
+            "stars": 546
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2024-05-26T11:16:10Z",
             "owner": "jorgebucaran",
             "repo": "fishtape",
-            "stars": 382
+            "stars": 383
           }
         },
         {
@@ -416,9 +416,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:28:18.441Z",
-    "original_repository": "jorgebucaran/awsm.fish",
-    "original_repository_id": 44163137,
+    "last_updated": "2026-08-27T11:29:54.028Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 44163137,
+      "language": null,
+      "last_commit": "2026-01-25T05:07:30Z",
+      "owner": "jorgebucaran",
+      "repo": "awsm.fish",
+      "stars": 5061
+    },
     "original_repository_sha": "602fdb24b148a399e6bcf53dceefca3760725cb5",
     "enhanced_repository": "enhansome/enhansome-awsm.fish",
     "enhanced_repository_description": null,
