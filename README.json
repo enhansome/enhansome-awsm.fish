@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The user-friendly command line shell.",
+            "homepage": "https://fishshell.com",
             "id": 4279682,
             "language": "Rust",
-            "last_commit": "2026-08-28T17:38:18Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T19:05:51Z",
+            "open_issues": 567,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34078
+            "stars": 34082,
+            "topics": [
+              "fish",
+              "rust",
+              "shell",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         }
@@ -32,12 +42,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "From Shell to Plate: Savor the Zest of Fish 🦞",
+            "homepage": null,
             "id": 49824648,
             "language": null,
+            "license": null,
             "last_commit": "2023-09-04T02:25:59Z",
+            "open_issues": 2,
             "owner": "jorgebucaran",
             "repo": "cookbook.fish",
-            "stars": 2152
+            "stars": 2153,
+            "topics": [
+              "cookbook",
+              "fish",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         }
@@ -54,12 +73,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌊 The ultimate Fish prompt.",
+            "homepage": null,
             "id": 252351960,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-12-15T23:02:13Z",
+            "open_issues": 160,
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4248
+            "stars": 4248,
+            "topics": [
+              "fish",
+              "fish-plugin",
+              "fish-prompt",
+              "prompt"
+            ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         },
@@ -70,12 +99,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pretty, minimal, and fast prompt for Fish shell inspired by sindresorhus/pure",
+            "homepage": "https://pure-fish.github.io/pure/",
             "id": 44034341,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-05-05T13:45:45Z",
+            "open_issues": 15,
             "owner": "pure-fish",
             "repo": "pure",
-            "stars": 1585
+            "stars": 1585,
+            "topics": [
+              "fish",
+              "fish-plugin",
+              "fish-prompt",
+              "fisher",
+              "prompt",
+              "pure",
+              "shell"
+            ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         },
@@ -86,12 +128,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ultra-pure, lag-free prompt with async Git status—just for Fish",
+            "homepage": null,
             "id": 166628414,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-02-24T13:28:42Z",
+            "open_issues": 21,
             "owner": "jorgebucaran",
             "repo": "hydro",
-            "stars": 966
+            "stars": 966,
+            "topics": [
+              "async",
+              "fish",
+              "fish-plugin",
+              "fish-prompt"
+            ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         }
@@ -108,12 +160,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin manager for Fish",
+            "homepage": "https://git.io/fisher",
             "id": 43098836,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-01-31T04:23:23Z",
+            "open_issues": 11,
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9401
+            "stars": 9401,
+            "topics": [
+              "fish",
+              "fish-plugin",
+              "plugin-manager"
+            ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         },
@@ -124,12 +185,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Node.js version manager you'll adore, crafted just for Fish",
+            "homepage": "https://git.io/nvm.fish",
             "id": 56083732,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-06-22T12:19:19Z",
+            "open_issues": 12,
             "owner": "jorgebucaran",
             "repo": "nvm.fish",
-            "stars": 2709
+            "stars": 2710,
+            "topics": [
+              "fish",
+              "fish-plugin",
+              "nodejs",
+              "nvm"
+            ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         },
@@ -140,12 +211,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔍🐟 Fzf plugin for Fish",
+            "homepage": null,
             "id": 260274833,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-06-18T23:25:12Z",
+            "open_issues": 1,
             "owner": "PatrickF1",
             "repo": "fzf.fish",
-            "stars": 2685
+            "stars": 2686,
+            "topics": [
+              "cli",
+              "command-history",
+              "command-line",
+              "file-browser",
+              "fish",
+              "fish-packages",
+              "fish-plugin",
+              "fish-shell",
+              "fisher",
+              "fishshell",
+              "fzf",
+              "fzf-plugin",
+              "fzf-preview-pane",
+              "fzf-scripts",
+              "oh-my-fish",
+              "oh-my-fish-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         },
@@ -156,12 +249,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pure-fish z directory jumping",
+            "homepage": null,
             "id": 52677844,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-04-16T11:39:50Z",
+            "open_issues": 17,
             "owner": "jethrokuan",
             "repo": "z",
-            "stars": 1530
+            "stars": 1530,
+            "topics": [
+              "fish",
+              "fish-plugin",
+              "fisher",
+              "z"
+            ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         },
@@ -172,12 +275,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fish shell tool for managing Python virtual environments",
+            "homepage": null,
             "id": 4847490,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-11-27T19:24:18Z",
+            "open_issues": 25,
             "owner": "justinmayer",
             "repo": "virtualfish",
-            "stars": 1092
+            "stars": 1092,
+            "topics": [
+              "fish",
+              "fish-shell",
+              "python",
+              "shell",
+              "virtualenv",
+              "virtualenvwrapper"
+            ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         },
@@ -188,12 +303,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fish-shell package to automatically receive notifications when long processes finish.",
+            "homepage": null,
             "id": 72852783,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-06-14T22:38:55Z",
+            "open_issues": 22,
             "owner": "franciscolourenco",
             "repo": "done",
-            "stars": 957
+            "stars": 957,
+            "topics": [
+              "fish",
+              "fish-packages",
+              "fish-plugin",
+              "fish-plugins",
+              "fish-shell",
+              "fisher",
+              "notifications",
+              "processes-finish",
+              "shell"
+            ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         },
@@ -204,12 +334,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Auto-complete matching pairs in the Fish command line",
+            "homepage": null,
             "id": 165573372,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2022-07-04T16:00:24Z",
+            "open_issues": 10,
             "owner": "jorgebucaran",
             "repo": "autopair.fish",
-            "stars": 575
+            "stars": 575,
+            "topics": [
+              "commandline",
+              "fish",
+              "fish-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         },
@@ -220,12 +359,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make your prompt asynchronous to improve the reactivity.",
+            "homepage": null,
             "id": 116143464,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-01-05T12:09:06Z",
+            "open_issues": 17,
             "owner": "acomagu",
             "repo": "fish-async-prompt",
-            "stars": 546
+            "stars": 546,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         },
@@ -236,12 +380,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Speed up your Git workflow. :tropical_fish:",
+            "homepage": "https://github.com/joseluisq/gitnow",
             "id": 200592061,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-07-28T20:50:53Z",
+            "open_issues": 11,
             "owner": "joseluisq",
             "repo": "gitnow",
-            "stars": 491
+            "stars": 491,
+            "topics": [
+              "bitbucket",
+              "fish-packages",
+              "fish-shell",
+              "git",
+              "git-workflow",
+              "github",
+              "keybindings",
+              "semver",
+              "ssh"
+            ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         },
@@ -252,12 +411,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run Bash commands, replay changes in Fish 🍤",
+            "homepage": null,
             "id": 25407377,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-07-01T03:53:07Z",
+            "open_issues": 1,
             "owner": "jorgebucaran",
             "repo": "replay.fish",
-            "stars": 482
+            "stars": 483,
+            "topics": [
+              "bash",
+              "env",
+              "fish",
+              "fish-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         },
@@ -268,12 +437,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧽 Clean fish history from typos automatically",
+            "homepage": null,
             "id": 264188065,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-01-21T02:38:40Z",
+            "open_issues": 2,
             "owner": "meaningful-ooo",
             "repo": "sponge",
-            "stars": 450
+            "stars": 450,
+            "topics": [
+              "command-history",
+              "fish",
+              "fish-plugin",
+              "fisher",
+              "open-source",
+              "shell-history"
+            ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         },
@@ -284,12 +465,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐡 Text Expansions for Fish",
+            "homepage": null,
             "id": 188087066,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-11-13T19:29:19Z",
+            "open_issues": 3,
             "owner": "nickeb96",
             "repo": "puffer-fish",
-            "stars": 429
+            "stars": 429,
+            "topics": [
+              "fish",
+              "fish-plugin",
+              "fisher",
+              "shell-extension"
+            ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         },
@@ -300,12 +491,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimalist package manager for fish shell",
+            "homepage": null,
             "id": 45519340,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2023-01-05T16:21:45Z",
+            "open_issues": 12,
             "owner": "danhper",
             "repo": "fundle",
-            "stars": 383
+            "stars": 383,
+            "topics": [
+              "fish",
+              "fish-plugins"
+            ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         },
@@ -316,12 +515,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "100% pure-Fish test runner",
+            "homepage": null,
             "id": 31851515,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-05-26T11:16:10Z",
+            "open_issues": 4,
             "owner": "jorgebucaran",
             "repo": "fishtape",
-            "stars": 383
+            "stars": 383,
+            "topics": [
+              "fish",
+              "fish-plugin",
+              "tap",
+              "test"
+            ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         },
@@ -332,12 +541,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💡 Help you remembering your abbreviations",
+            "homepage": null,
             "id": 255135894,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-02-06T20:09:47Z",
+            "open_issues": 6,
             "owner": "gazorby",
             "repo": "fish-abbreviation-tips",
-            "stars": 381
+            "stars": 381,
+            "topics": [
+              "abbreviation",
+              "abbreviations",
+              "abbreviations-tips",
+              "fish",
+              "fish-plugin",
+              "fisher"
+            ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         },
@@ -348,12 +569,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "▁▂▄▆▇█▇▆▄▂▁",
+            "homepage": null,
             "id": 29033523,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2021-01-16T05:39:49Z",
+            "open_issues": 0,
             "owner": "jorgebucaran",
             "repo": "spark.fish",
-            "stars": 380
+            "stars": 380,
+            "topics": [
+              "fish",
+              "fish-plugin",
+              "spark"
+            ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         },
@@ -364,12 +594,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parse CLI options in Fish",
+            "homepage": null,
             "id": 29534850,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-04-15T13:54:48Z",
+            "open_issues": 0,
             "owner": "jorgebucaran",
             "repo": "getopts.fish",
-            "stars": 235
+            "stars": 235,
+            "topics": [
+              "cli-parser",
+              "fish",
+              "fish-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         },
@@ -380,12 +619,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡️ Supercharge your touchbar with fish 🐠",
+            "homepage": null,
             "id": 159330302,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2022-04-29T15:56:25Z",
+            "open_issues": 0,
             "owner": "rodrigobdz",
             "repo": "fish-apple-touchbar",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "awesome-fish-shell",
+              "awesome-plugin",
+              "fish-plugin",
+              "fish-shell",
+              "fisher",
+              "iterm2",
+              "macbook-pro",
+              "touchbar",
+              "touchbar-support",
+              "zsh-apple-touchbar"
+            ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         },
@@ -396,12 +651,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Context-aware single-letter project commands to speed up your terminal workflow.",
+            "homepage": null,
             "id": 175886113,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-25T19:00:36Z",
+            "open_issues": 5,
             "owner": "paldepind",
             "repo": "projectdo",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "cli",
+              "command-line",
+              "fish-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         },
@@ -412,12 +676,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fish shell plugin to run a default command when none was given",
+            "homepage": null,
             "id": 424459441,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-04-07T20:16:38Z",
+            "open_issues": 2,
             "owner": "mattmc3",
             "repo": "magic-enter.fish",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "fish",
+              "fish-plugin",
+              "fish-shell",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         },
@@ -428,12 +702,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "base16 for fish shell",
+            "homepage": null,
             "id": 247160187,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-04-08T10:50:20Z",
+            "open_issues": 0,
             "owner": "FabioAntunes",
             "repo": "base16-fish-shell",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "base16",
+              "fish",
+              "fish-shell",
+              "hacktoberfest",
+              "shell"
+            ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
         }
@@ -442,15 +727,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:57:48.807Z",
+    "last_updated": "2026-08-29T04:17:41.880Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
+      "homepage": "https://git.io/awsm.fish",
       "id": 44163137,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-01-25T05:07:30Z",
+      "open_issues": 16,
       "owner": "jorgebucaran",
       "repo": "awsm.fish",
-      "stars": 5062
+      "stars": 5062,
+      "topics": [
+        "awesome",
+        "fish",
+        "fish-plugin"
+      ]
     },
     "original_repository_sha": "602fdb24b148a399e6bcf53dceefca3760725cb5",
     "enhanced_repository": "enhansome/enhansome-awsm.fish",
