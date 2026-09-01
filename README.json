@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-08-30T19:55:33Z",
-            "open_issues": 567,
+            "open_issues": 570,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34104,
+            "stars": 34108,
             "topics": [
               "fish",
               "rust",
@@ -169,7 +169,7 @@
             "open_issues": 11,
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9407,
+            "stars": 9408,
             "topics": [
               "fish",
               "fish-plugin",
@@ -194,7 +194,7 @@
             "open_issues": 12,
             "owner": "jorgebucaran",
             "repo": "nvm.fish",
-            "stars": 2712,
+            "stars": 2711,
             "topics": [
               "fish",
               "fish-plugin",
@@ -343,7 +343,7 @@
             "open_issues": 9,
             "owner": "jorgebucaran",
             "repo": "autopair.fish",
-            "stars": 575,
+            "stars": 576,
             "topics": [
               "commandline",
               "fish",
@@ -368,7 +368,7 @@
             "open_issues": 17,
             "owner": "acomagu",
             "repo": "fish-async-prompt",
-            "stars": 546,
+            "stars": 547,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
@@ -685,7 +685,7 @@
             "open_issues": 2,
             "owner": "mattmc3",
             "repo": "magic-enter.fish",
-            "stars": 36,
+            "stars": 37,
             "topics": [
               "fish",
               "fish-plugin",
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T14:20:43.805Z",
+    "last_updated": "2026-09-01T11:57:14.278Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
