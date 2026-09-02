@@ -15,11 +15,11 @@
             "id": 4279682,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-30T19:55:33Z",
-            "open_issues": 570,
+            "last_commit": "2026-09-02T11:10:52Z",
+            "open_issues": 561,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34108,
+            "stars": 34115,
             "topics": [
               "fish",
               "rust",
@@ -82,7 +82,7 @@
             "open_issues": 160,
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4253,
+            "stars": 4255,
             "topics": [
               "fish",
               "fish-plugin",
@@ -169,7 +169,7 @@
             "open_issues": 11,
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9408,
+            "stars": 9412,
             "topics": [
               "fish",
               "fish-plugin",
@@ -194,7 +194,7 @@
             "open_issues": 12,
             "owner": "jorgebucaran",
             "repo": "nvm.fish",
-            "stars": 2711,
+            "stars": 2712,
             "topics": [
               "fish",
               "fish-plugin",
@@ -220,7 +220,7 @@
             "open_issues": 1,
             "owner": "PatrickF1",
             "repo": "fzf.fish",
-            "stars": 2686,
+            "stars": 2689,
             "topics": [
               "cli",
               "command-history",
@@ -343,7 +343,7 @@
             "open_issues": 9,
             "owner": "jorgebucaran",
             "repo": "autopair.fish",
-            "stars": 576,
+            "stars": 577,
             "topics": [
               "commandline",
               "fish",
@@ -368,7 +368,7 @@
             "open_issues": 17,
             "owner": "acomagu",
             "repo": "fish-async-prompt",
-            "stars": 547,
+            "stars": 548,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
@@ -385,8 +385,8 @@
             "id": 200592061,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-07-28T20:50:53Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-01T20:49:48Z",
+            "open_issues": 12,
             "owner": "joseluisq",
             "repo": "gitnow",
             "stars": 491,
@@ -446,7 +446,7 @@
             "open_issues": 2,
             "owner": "meaningful-ooo",
             "repo": "sponge",
-            "stars": 450,
+            "stars": 451,
             "topics": [
               "command-history",
               "fish",
@@ -474,7 +474,7 @@
             "open_issues": 3,
             "owner": "nickeb96",
             "repo": "puffer-fish",
-            "stars": 429,
+            "stars": 430,
             "topics": [
               "fish",
               "fish-plugin",
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T11:57:14.278Z",
+    "last_updated": "2026-09-02T11:39:25.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
@@ -739,7 +739,7 @@
       "open_issues": 16,
       "owner": "jorgebucaran",
       "repo": "awsm.fish",
-      "stars": 5066,
+      "stars": 5067,
       "topics": [
         "awesome",
         "fish",
