@@ -15,11 +15,11 @@
             "id": 4279682,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T11:10:52Z",
+            "last_commit": "2026-09-02T18:00:21Z",
             "open_issues": 561,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34115,
+            "stars": 34117,
             "topics": [
               "fish",
               "rust",
@@ -82,7 +82,7 @@
             "open_issues": 160,
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4255,
+            "stars": 4254,
             "topics": [
               "fish",
               "fish-plugin",
@@ -104,11 +104,11 @@
             "id": 44034341,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-05-05T13:45:45Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-02T22:11:54Z",
+            "open_issues": 14,
             "owner": "pure-fish",
             "repo": "pure",
-            "stars": 1586,
+            "stars": 1587,
             "topics": [
               "fish",
               "fish-plugin",
@@ -169,7 +169,7 @@
             "open_issues": 11,
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9412,
+            "stars": 9411,
             "topics": [
               "fish",
               "fish-plugin",
@@ -343,7 +343,7 @@
             "open_issues": 9,
             "owner": "jorgebucaran",
             "repo": "autopair.fish",
-            "stars": 577,
+            "stars": 578,
             "topics": [
               "commandline",
               "fish",
@@ -474,12 +474,38 @@
             "open_issues": 3,
             "owner": "nickeb96",
             "repo": "puffer-fish",
-            "stars": 430,
+            "stars": 431,
             "topics": [
               "fish",
               "fish-plugin",
               "fisher",
               "shell-extension"
+            ]
+          },
+          "first_seen": "2026-08-28T18:57:48.807Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Fishtape",
+          "description": "TAP-based test runner for Fish",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "100% pure-Fish test runner",
+            "homepage": null,
+            "id": 31851515,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2024-05-26T11:16:10Z",
+            "open_issues": 4,
+            "owner": "jorgebucaran",
+            "repo": "fishtape",
+            "stars": 384,
+            "topics": [
+              "fish",
+              "fish-plugin",
+              "tap",
+              "test"
             ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
@@ -504,32 +530,6 @@
             "topics": [
               "fish",
               "fish-plugins"
-            ]
-          },
-          "first_seen": "2026-08-28T18:57:48.807Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Fishtape",
-          "description": "TAP-based test runner for Fish",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "100% pure-Fish test runner",
-            "homepage": null,
-            "id": 31851515,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2024-05-26T11:16:10Z",
-            "open_issues": 4,
-            "owner": "jorgebucaran",
-            "repo": "fishtape",
-            "stars": 383,
-            "topics": [
-              "fish",
-              "fish-plugin",
-              "tap",
-              "test"
             ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T11:39:25.663Z",
+    "last_updated": "2026-09-03T11:38:02.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
@@ -739,7 +739,7 @@
       "open_issues": 16,
       "owner": "jorgebucaran",
       "repo": "awsm.fish",
-      "stars": 5067,
+      "stars": 5068,
       "topics": [
         "awesome",
         "fish",
