@@ -15,11 +15,11 @@
             "id": 4279682,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T10:34:15Z",
+            "last_commit": "2026-09-05T11:25:20Z",
             "open_issues": 562,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34135,
+            "stars": 34141,
             "topics": [
               "fish",
               "rust",
@@ -82,7 +82,7 @@
             "open_issues": 160,
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4258,
+            "stars": 4259,
             "topics": [
               "fish",
               "fish-plugin",
@@ -169,7 +169,7 @@
             "open_issues": 11,
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9414,
+            "stars": 9415,
             "topics": [
               "fish",
               "fish-plugin",
@@ -312,7 +312,7 @@
             "open_issues": 22,
             "owner": "franciscolourenco",
             "repo": "done",
-            "stars": 961,
+            "stars": 962,
             "topics": [
               "fish",
               "fish-packages",
@@ -474,7 +474,7 @@
             "open_issues": 3,
             "owner": "nickeb96",
             "repo": "puffer-fish",
-            "stars": 431,
+            "stars": 432,
             "topics": [
               "fish",
               "fish-plugin",
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T10:52:13.248Z",
+    "last_updated": "2026-09-06T11:16:49.909Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
