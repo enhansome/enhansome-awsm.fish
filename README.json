@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-09-09T14:52:19Z",
-            "open_issues": 568,
+            "open_issues": 572,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34162,
+            "stars": 34176,
             "topics": [
               "fish",
               "rust",
@@ -51,7 +51,7 @@
             "open_issues": 2,
             "owner": "jorgebucaran",
             "repo": "cookbook.fish",
-            "stars": 2153,
+            "stars": 2154,
             "topics": [
               "cookbook",
               "fish",
@@ -82,7 +82,7 @@
             "open_issues": 160,
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4261,
+            "stars": 4262,
             "topics": [
               "fish",
               "fish-plugin",
@@ -108,7 +108,7 @@
             "open_issues": 14,
             "owner": "pure-fish",
             "repo": "pure",
-            "stars": 1590,
+            "stars": 1591,
             "topics": [
               "fish",
               "fish-plugin",
@@ -169,7 +169,7 @@
             "open_issues": 12,
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9421,
+            "stars": 9423,
             "topics": [
               "fish",
               "fish-plugin",
@@ -194,7 +194,7 @@
             "open_issues": 12,
             "owner": "jorgebucaran",
             "repo": "nvm.fish",
-            "stars": 2713,
+            "stars": 2715,
             "topics": [
               "fish",
               "fish-plugin",
@@ -220,7 +220,7 @@
             "open_issues": 1,
             "owner": "PatrickF1",
             "repo": "fzf.fish",
-            "stars": 2691,
+            "stars": 2692,
             "topics": [
               "cli",
               "command-history",
@@ -255,7 +255,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-04-16T11:39:50Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "jethrokuan",
             "repo": "z",
             "stars": 1532,
@@ -312,7 +312,7 @@
             "open_issues": 22,
             "owner": "franciscolourenco",
             "repo": "done",
-            "stars": 962,
+            "stars": 963,
             "topics": [
               "fish",
               "fish-packages",
@@ -389,7 +389,7 @@
             "open_issues": 12,
             "owner": "joseluisq",
             "repo": "gitnow",
-            "stars": 490,
+            "stars": 491,
             "topics": [
               "bitbucket",
               "fish-packages",
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T11:43:34.852Z",
+    "last_updated": "2026-09-11T11:44:05.809Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
