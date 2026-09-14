@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-09-09T14:52:19Z",
-            "open_issues": 574,
+            "open_issues": 573,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34188,
+            "stars": 34199,
             "topics": [
               "fish",
               "rust",
@@ -82,7 +82,7 @@
             "open_issues": 160,
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4265,
+            "stars": 4266,
             "topics": [
               "fish",
               "fish-plugin",
@@ -169,7 +169,7 @@
             "open_issues": 12,
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9424,
+            "stars": 9423,
             "topics": [
               "fish",
               "fish-plugin",
@@ -255,7 +255,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-04-16T11:39:50Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "jethrokuan",
             "repo": "z",
             "stars": 1532,
@@ -312,7 +312,7 @@
             "open_issues": 22,
             "owner": "franciscolourenco",
             "repo": "done",
-            "stars": 963,
+            "stars": 962,
             "topics": [
               "fish",
               "fish-packages",
@@ -343,7 +343,7 @@
             "open_issues": 9,
             "owner": "jorgebucaran",
             "repo": "autopair.fish",
-            "stars": 580,
+            "stars": 581,
             "topics": [
               "commandline",
               "fish",
@@ -389,7 +389,7 @@
             "open_issues": 12,
             "owner": "joseluisq",
             "repo": "gitnow",
-            "stars": 491,
+            "stars": 490,
             "topics": [
               "bitbucket",
               "fish-packages",
@@ -550,7 +550,7 @@
             "open_issues": 0,
             "owner": "jorgebucaran",
             "repo": "spark.fish",
-            "stars": 382,
+            "stars": 381,
             "topics": [
               "fish",
               "fish-plugin",
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T12:14:16.922Z",
+    "last_updated": "2026-09-14T13:15:24.901Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
