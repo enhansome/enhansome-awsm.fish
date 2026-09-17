@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-09-15T08:14:12Z",
-            "open_issues": 565,
+            "open_issues": 564,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34202,
+            "stars": 34206,
             "topics": [
               "fish",
               "rust",
@@ -82,7 +82,7 @@
             "open_issues": 160,
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4267,
+            "stars": 4268,
             "topics": [
               "fish",
               "fish-plugin",
@@ -108,7 +108,7 @@
             "open_issues": 14,
             "owner": "pure-fish",
             "repo": "pure",
-            "stars": 1591,
+            "stars": 1592,
             "topics": [
               "fish",
               "fish-plugin",
@@ -169,7 +169,7 @@
             "open_issues": 12,
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9423,
+            "stars": 9424,
             "topics": [
               "fish",
               "fish-plugin",
@@ -258,7 +258,7 @@
             "open_issues": 19,
             "owner": "jethrokuan",
             "repo": "z",
-            "stars": 1532,
+            "stars": 1533,
             "topics": [
               "fish",
               "fish-plugin",
@@ -474,12 +474,36 @@
             "open_issues": 3,
             "owner": "nickeb96",
             "repo": "puffer-fish",
-            "stars": 430,
+            "stars": 431,
             "topics": [
               "fish",
               "fish-plugin",
               "fisher",
               "shell-extension"
+            ]
+          },
+          "first_seen": "2026-08-28T18:57:48.807Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Fundle",
+          "description": "-based plugin manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A minimalist package manager for fish shell",
+            "homepage": null,
+            "id": 45519340,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2023-01-05T16:21:45Z",
+            "open_issues": 12,
+            "owner": "danhper",
+            "repo": "fundle",
+            "stars": 384,
+            "topics": [
+              "fish",
+              "fish-plugins"
             ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
@@ -506,30 +530,6 @@
               "fish-plugin",
               "tap",
               "test"
-            ]
-          },
-          "first_seen": "2026-08-28T18:57:48.807Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Fundle",
-          "description": "-based plugin manager",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A minimalist package manager for fish shell",
-            "homepage": null,
-            "id": 45519340,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2023-01-05T16:21:45Z",
-            "open_issues": 12,
-            "owner": "danhper",
-            "repo": "fundle",
-            "stars": 383,
-            "topics": [
-              "fish",
-              "fish-plugins"
             ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T11:57:48.339Z",
+    "last_updated": "2026-09-17T11:59:25.344Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
@@ -739,7 +739,7 @@
       "open_issues": 16,
       "owner": "jorgebucaran",
       "repo": "awsm.fish",
-      "stars": 5075,
+      "stars": 5076,
       "topics": [
         "awesome",
         "fish",
