@@ -19,7 +19,7 @@
             "open_issues": 564,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34206,
+            "stars": 34210,
             "topics": [
               "fish",
               "rust",
@@ -82,7 +82,7 @@
             "open_issues": 160,
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4268,
+            "stars": 4269,
             "topics": [
               "fish",
               "fish-plugin",
@@ -137,7 +137,7 @@
             "open_issues": 21,
             "owner": "jorgebucaran",
             "repo": "hydro",
-            "stars": 969,
+            "stars": 970,
             "topics": [
               "async",
               "fish",
@@ -166,10 +166,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-01-31T04:23:23Z",
-            "open_issues": 12,
+            "open_issues": 15,
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9424,
+            "stars": 9423,
             "topics": [
               "fish",
               "fish-plugin",
@@ -194,7 +194,7 @@
             "open_issues": 13,
             "owner": "jorgebucaran",
             "repo": "nvm.fish",
-            "stars": 2715,
+            "stars": 2716,
             "topics": [
               "fish",
               "fish-plugin",
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T11:59:25.344Z",
+    "last_updated": "2026-09-18T11:41:17.713Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
@@ -739,7 +739,7 @@
       "open_issues": 16,
       "owner": "jorgebucaran",
       "repo": "awsm.fish",
-      "stars": 5076,
+      "stars": 5075,
       "topics": [
         "awesome",
         "fish",
