@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-09-19T09:07:03Z",
-            "open_issues": 561,
+            "open_issues": 562,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34216,
+            "stars": 34218,
             "topics": [
               "fish",
               "rust",
@@ -82,7 +82,7 @@
             "open_issues": 160,
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4270,
+            "stars": 4272,
             "topics": [
               "fish",
               "fish-plugin",
@@ -169,7 +169,7 @@
             "open_issues": 15,
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9423,
+            "stars": 9424,
             "topics": [
               "fish",
               "fish-plugin",
@@ -220,7 +220,7 @@
             "open_issues": 1,
             "owner": "PatrickF1",
             "repo": "fzf.fish",
-            "stars": 2696,
+            "stars": 2698,
             "topics": [
               "cli",
               "command-history",
@@ -312,7 +312,7 @@
             "open_issues": 22,
             "owner": "franciscolourenco",
             "repo": "done",
-            "stars": 962,
+            "stars": 963,
             "topics": [
               "fish",
               "fish-packages",
@@ -343,7 +343,7 @@
             "open_issues": 9,
             "owner": "jorgebucaran",
             "repo": "autopair.fish",
-            "stars": 581,
+            "stars": 583,
             "topics": [
               "commandline",
               "fish",
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T11:24:18.238Z",
+    "last_updated": "2026-09-20T11:44:51.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
