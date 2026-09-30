@@ -19,7 +19,7 @@
             "open_issues": 555,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34244,
+            "stars": 34245,
             "topics": [
               "fish",
               "rust",
@@ -82,7 +82,7 @@
             "open_issues": 160,
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4272,
+            "stars": 4271,
             "topics": [
               "fish",
               "fish-plugin",
@@ -166,7 +166,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-01-31T04:23:23Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "jorgebucaran",
             "repo": "fisher",
             "stars": 9431,
@@ -220,7 +220,7 @@
             "open_issues": 1,
             "owner": "PatrickF1",
             "repo": "fzf.fish",
-            "stars": 2702,
+            "stars": 2701,
             "topics": [
               "cli",
               "command-history",
@@ -343,7 +343,7 @@
             "open_issues": 9,
             "owner": "jorgebucaran",
             "repo": "autopair.fish",
-            "stars": 584,
+            "stars": 583,
             "topics": [
               "commandline",
               "fish",
@@ -446,7 +446,7 @@
             "open_issues": 2,
             "owner": "meaningful-ooo",
             "repo": "sponge",
-            "stars": 454,
+            "stars": 453,
             "topics": [
               "command-history",
               "fish",
@@ -474,7 +474,7 @@
             "open_issues": 3,
             "owner": "nickeb96",
             "repo": "puffer-fish",
-            "stars": 433,
+            "stars": 432,
             "topics": [
               "fish",
               "fish-plugin",
@@ -550,7 +550,7 @@
             "open_issues": 6,
             "owner": "gazorby",
             "repo": "fish-abbreviation-tips",
-            "stars": 382,
+            "stars": 381,
             "topics": [
               "abbreviation",
               "abbreviations",
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T13:15:41.953Z",
+    "last_updated": "2026-09-30T12:56:14.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
@@ -739,7 +739,7 @@
       "open_issues": 18,
       "owner": "jorgebucaran",
       "repo": "awsm.fish",
-      "stars": 5083,
+      "stars": 5082,
       "topics": [
         "awesome",
         "fish",
