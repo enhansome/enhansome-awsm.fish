@@ -19,7 +19,7 @@
             "open_issues": 555,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34246,
+            "stars": 34250,
             "topics": [
               "fish",
               "rust",
@@ -82,7 +82,7 @@
             "open_issues": 160,
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4272,
+            "stars": 4273,
             "topics": [
               "fish",
               "fish-plugin",
@@ -108,7 +108,7 @@
             "open_issues": 16,
             "owner": "pure-fish",
             "repo": "pure",
-            "stars": 1593,
+            "stars": 1594,
             "topics": [
               "fish",
               "fish-plugin",
@@ -169,7 +169,7 @@
             "open_issues": 16,
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9431,
+            "stars": 9432,
             "topics": [
               "fish",
               "fish-plugin",
@@ -258,7 +258,7 @@
             "open_issues": 19,
             "owner": "jethrokuan",
             "repo": "z",
-            "stars": 1534,
+            "stars": 1535,
             "topics": [
               "fish",
               "fish-plugin",
@@ -284,7 +284,7 @@
             "open_issues": 26,
             "owner": "justinmayer",
             "repo": "virtualfish",
-            "stars": 1092,
+            "stars": 1093,
             "topics": [
               "fish",
               "fish-shell",
@@ -312,7 +312,7 @@
             "open_issues": 23,
             "owner": "franciscolourenco",
             "repo": "done",
-            "stars": 964,
+            "stars": 965,
             "topics": [
               "fish",
               "fish-packages",
@@ -420,7 +420,7 @@
             "open_issues": 1,
             "owner": "jorgebucaran",
             "repo": "replay.fish",
-            "stars": 483,
+            "stars": 484,
             "topics": [
               "bash",
               "env",
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T13:48:11.415Z",
+    "last_updated": "2026-10-02T13:04:35.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
