@@ -82,7 +82,7 @@
             "open_issues": 160,
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4273,
+            "stars": 4275,
             "topics": [
               "fish",
               "fish-plugin",
@@ -312,7 +312,7 @@
             "open_issues": 23,
             "owner": "franciscolourenco",
             "repo": "done",
-            "stars": 965,
+            "stars": 966,
             "topics": [
               "fish",
               "fish-packages",
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:33:20.059Z",
+    "last_updated": "2026-10-03T11:56:50.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
