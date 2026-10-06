@@ -15,11 +15,11 @@
             "id": 4279682,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T03:27:00Z",
-            "open_issues": 562,
+            "last_commit": "2026-10-05T21:00:41Z",
+            "open_issues": 557,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34259,
+            "stars": 34260,
             "topics": [
               "fish",
               "rust",
@@ -82,7 +82,7 @@
             "open_issues": 161,
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4275,
+            "stars": 4276,
             "topics": [
               "fish",
               "fish-plugin",
@@ -137,7 +137,7 @@
             "open_issues": 21,
             "owner": "jorgebucaran",
             "repo": "hydro",
-            "stars": 973,
+            "stars": 974,
             "topics": [
               "async",
               "fish",
@@ -169,7 +169,7 @@
             "open_issues": 16,
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9432,
+            "stars": 9431,
             "topics": [
               "fish",
               "fish-plugin",
@@ -194,7 +194,7 @@
             "open_issues": 13,
             "owner": "jorgebucaran",
             "repo": "nvm.fish",
-            "stars": 2717,
+            "stars": 2716,
             "topics": [
               "fish",
               "fish-plugin",
@@ -474,7 +474,7 @@
             "open_issues": 3,
             "owner": "nickeb96",
             "repo": "puffer-fish",
-            "stars": 433,
+            "stars": 432,
             "topics": [
               "fish",
               "fish-plugin",
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T15:11:45.382Z",
+    "last_updated": "2026-10-06T10:42:53.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
