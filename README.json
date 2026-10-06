@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-10-05T21:00:41Z",
-            "open_issues": 557,
+            "open_issues": 558,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34260,
+            "stars": 34262,
             "topics": [
               "fish",
               "rust",
@@ -104,7 +104,7 @@
             "id": 44034341,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-05T14:48:14Z",
+            "last_commit": "2026-10-06T13:18:21Z",
             "open_issues": 14,
             "owner": "pure-fish",
             "repo": "pure",
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:42:53.318Z",
+    "last_updated": "2026-10-06T13:32:53.366Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",

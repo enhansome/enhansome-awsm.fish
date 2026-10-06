@@ -14,7 +14,7 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 
 ## Official Resources
 
-* [GitHub Repository](https://github.com/fish-shell/fish-shell) ⭐ 34,260 | 🐛 557 | 🌐 Rust | 📅 2026-10-05
+* [GitHub Repository](https://github.com/fish-shell/fish-shell) ⭐ 34,262 | 🐛 558 | 🌐 Rust | 📅 2026-10-05
 * [Official Site](https://fishshell.com)
 
 ## Community Resources
@@ -27,14 +27,14 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 ## Prompts
 
 * [Tide](https://github.com/IlanCosman/tide) ⭐ 4,276 | 🐛 161 | 🌐 Shell | 📅 2025-12-15 - A modern prompt manager for Fish
-* [Pure](https://github.com/pure-fish/pure/) ⭐ 1,593 | 🐛 14 | 🌐 Shell | 📅 2026-10-05 - [*That*](https://github.com/sindresorhus/pure) ⭐ 14,437 | 🐛 0 | 🌐 Shell | 📅 2026-09-19 ZSH prompt, now in Fish flavor
+* [Pure](https://github.com/pure-fish/pure/) ⭐ 1,593 | 🐛 14 | 🌐 Shell | 📅 2026-10-06 - [*That*](https://github.com/sindresorhus/pure) ⭐ 14,438 | 🐛 0 | 🌐 Shell | 📅 2026-09-19 ZSH prompt, now in Fish flavor
 * [Hydro](https://github.com/jorgebucaran/hydro) ⭐ 974 | 🐛 21 | 🌐 Shell | 📅 2026-02-24 - Lag-free prompt with async Git status (ooh la la)
 
 ## Plugins
 
 * [Fisher](https://github.com/jorgebucaran/fisher) ⭐ 9,431 | 🐛 16 | 🌐 Shell | 📅 2026-01-31 - Manage functions, completions, bindings, and snippets from the CLI
 * [nvm](https://github.com/jorgebucaran/nvm.fish) ⭐ 2,716 | 🐛 13 | 🌐 Shell | 📅 2026-06-22 - Node.js version manager lovingly made for Fish
-* [fzf](https://github.com/PatrickF1/fzf.fish) ⭐ 2,702 | 🐛 1 | 🌐 Shell | 📅 2026-06-18 - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf) ⭐ 83,400 | 🐛 333 | 🌐 Go | 📅 2026-10-05. ([Alternative](https://github.com/jethrokuan/fzf) ⭐ 907 | 🐛 28 | 🌐 Shell | 📅 2022-03-05)
+* [fzf](https://github.com/PatrickF1/fzf.fish) ⭐ 2,702 | 🐛 1 | 🌐 Shell | 📅 2026-06-18 - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf) ⭐ 83,399 | 🐛 333 | 🌐 Go | 📅 2026-10-05. ([Alternative](https://github.com/jethrokuan/fzf) ⭐ 907 | 🐛 28 | 🌐 Shell | 📅 2022-03-05)
 * [z](https://github.com/jethrokuan/z) ⭐ 1,536 | 🐛 19 | 🌐 Shell | 📅 2026-04-16 - Pure-Fish [`rupa/z`](https://github.com/rupa/z) ⭐ 17,060 | 🐛 108 | 🌐 Shell | 📅 2024-06-19-like directory jumping
 * [Virtualfish](https://github.com/adambrenecki/virtualfish) ⭐ 1,094 | 🐛 26 | 🌐 Shell | 📅 2024-11-27 - Virtualenv wrapper
 * [Done](https://github.com/franciscolourenco/done) ⭐ 966 | 🐛 23 | 🌐 Shell | 📅 2026-06-14 - Automatically receive notifications after a long process finishes
