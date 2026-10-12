@@ -15,11 +15,11 @@
             "id": 4279682,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T21:06:42Z",
-            "open_issues": 563,
+            "last_commit": "2026-10-12T03:09:24Z",
+            "open_issues": 568,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34287,
+            "stars": 34298,
             "topics": [
               "fish",
               "rust",
@@ -105,7 +105,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-10-06T21:15:24Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "pure-fish",
             "repo": "pure",
             "stars": 1595,
@@ -169,7 +169,7 @@
             "open_issues": 16,
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9438,
+            "stars": 9439,
             "topics": [
               "fish",
               "fish-plugin",
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T13:22:48.664Z",
+    "last_updated": "2026-10-12T15:58:52.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
@@ -739,7 +739,7 @@
       "open_issues": 21,
       "owner": "jorgebucaran",
       "repo": "awsm.fish",
-      "stars": 5091,
+      "stars": 5090,
       "topics": [
         "awesome",
         "fish",
