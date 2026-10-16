@@ -19,7 +19,7 @@
             "open_issues": 568,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34296,
+            "stars": 34298,
             "topics": [
               "fish",
               "rust",
@@ -82,7 +82,7 @@
             "open_issues": 160,
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4280,
+            "stars": 4281,
             "topics": [
               "fish",
               "fish-plugin",
@@ -108,7 +108,7 @@
             "open_issues": 13,
             "owner": "pure-fish",
             "repo": "pure",
-            "stars": 1596,
+            "stars": 1597,
             "topics": [
               "fish",
               "fish-plugin",
@@ -169,7 +169,7 @@
             "open_issues": 17,
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9439,
+            "stars": 9438,
             "topics": [
               "fish",
               "fish-plugin",
@@ -194,7 +194,7 @@
             "open_issues": 13,
             "owner": "jorgebucaran",
             "repo": "nvm.fish",
-            "stars": 2718,
+            "stars": 2720,
             "topics": [
               "fish",
               "fish-plugin",
@@ -284,7 +284,7 @@
             "open_issues": 26,
             "owner": "justinmayer",
             "repo": "virtualfish",
-            "stars": 1094,
+            "stars": 1095,
             "topics": [
               "fish",
               "fish-shell",
@@ -446,7 +446,7 @@
             "open_issues": 2,
             "owner": "meaningful-ooo",
             "repo": "sponge",
-            "stars": 454,
+            "stars": 455,
             "topics": [
               "command-history",
               "fish",
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T11:58:36.776Z",
+    "last_updated": "2026-10-16T11:49:40.881Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
@@ -739,7 +739,7 @@
       "open_issues": 21,
       "owner": "jorgebucaran",
       "repo": "awsm.fish",
-      "stars": 5094,
+      "stars": 5096,
       "topics": [
         "awesome",
         "fish",
