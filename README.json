@@ -19,7 +19,7 @@
             "open_issues": 559,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34309,
+            "stars": 34323,
             "topics": [
               "fish",
               "rust",
@@ -82,7 +82,7 @@
             "open_issues": 160,
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4282,
+            "stars": 4284,
             "topics": [
               "fish",
               "fish-plugin",
@@ -108,7 +108,7 @@
             "open_issues": 13,
             "owner": "pure-fish",
             "repo": "pure",
-            "stars": 1598,
+            "stars": 1599,
             "topics": [
               "fish",
               "fish-plugin",
@@ -166,7 +166,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-01-31T04:23:23Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "jorgebucaran",
             "repo": "fisher",
             "stars": 9440,
@@ -220,7 +220,7 @@
             "open_issues": 1,
             "owner": "PatrickF1",
             "repo": "fzf.fish",
-            "stars": 2706,
+            "stars": 2707,
             "topics": [
               "cli",
               "command-history",
@@ -312,7 +312,7 @@
             "open_issues": 23,
             "owner": "franciscolourenco",
             "repo": "done",
-            "stars": 966,
+            "stars": 967,
             "topics": [
               "fish",
               "fish-packages",
@@ -420,7 +420,7 @@
             "open_issues": 1,
             "owner": "jorgebucaran",
             "repo": "replay.fish",
-            "stars": 484,
+            "stars": 485,
             "topics": [
               "bash",
               "env",
@@ -486,6 +486,32 @@
         },
         {
           "node_type": "item",
+          "title": "Fishtape",
+          "description": "TAP-based test runner for Fish",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "100% pure-Fish test runner",
+            "homepage": null,
+            "id": 31851515,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2024-05-26T11:16:10Z",
+            "open_issues": 4,
+            "owner": "jorgebucaran",
+            "repo": "fishtape",
+            "stars": 385,
+            "topics": [
+              "fish",
+              "fish-plugin",
+              "tap",
+              "test"
+            ]
+          },
+          "first_seen": "2026-08-28T18:57:48.807Z"
+        },
+        {
+          "node_type": "item",
           "title": "Fundle",
           "description": "-based plugin manager",
           "children": [],
@@ -510,32 +536,6 @@
         },
         {
           "node_type": "item",
-          "title": "Fishtape",
-          "description": "TAP-based test runner for Fish",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "100% pure-Fish test runner",
-            "homepage": null,
-            "id": 31851515,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2024-05-26T11:16:10Z",
-            "open_issues": 4,
-            "owner": "jorgebucaran",
-            "repo": "fishtape",
-            "stars": 384,
-            "topics": [
-              "fish",
-              "fish-plugin",
-              "tap",
-              "test"
-            ]
-          },
-          "first_seen": "2026-08-28T18:57:48.807Z"
-        },
-        {
-          "node_type": "item",
           "title": "Abbreviation Tips",
           "description": "Remembering abbreviations by displaying tips when you can use them",
           "children": [],
@@ -550,7 +550,7 @@
             "open_issues": 6,
             "owner": "gazorby",
             "repo": "fish-abbreviation-tips",
-            "stars": 382,
+            "stars": 383,
             "topics": [
               "abbreviation",
               "abbreviations",
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T11:36:28.196Z",
+    "last_updated": "2026-10-19T13:50:50.703Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
@@ -739,7 +739,7 @@
       "open_issues": 21,
       "owner": "jorgebucaran",
       "repo": "awsm.fish",
-      "stars": 5098,
+      "stars": 5100,
       "topics": [
         "awesome",
         "fish",
