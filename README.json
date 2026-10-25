@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-10-22T17:21:51Z",
-            "open_issues": 560,
+            "open_issues": 562,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34339,
+            "stars": 34341,
             "topics": [
               "fish",
               "rust",
@@ -82,7 +82,7 @@
             "open_issues": 161,
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4288,
+            "stars": 4296,
             "topics": [
               "fish",
               "fish-plugin",
@@ -108,7 +108,7 @@
             "open_issues": 13,
             "owner": "pure-fish",
             "repo": "pure",
-            "stars": 1602,
+            "stars": 1603,
             "topics": [
               "fish",
               "fish-plugin",
@@ -166,10 +166,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-01-31T04:23:23Z",
-            "open_issues": 18,
+            "open_issues": 17,
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9450,
+            "stars": 9451,
             "topics": [
               "fish",
               "fish-plugin",
@@ -474,7 +474,7 @@
             "open_issues": 3,
             "owner": "nickeb96",
             "repo": "puffer-fish",
-            "stars": 433,
+            "stars": 435,
             "topics": [
               "fish",
               "fish-plugin",
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T11:29:03.059Z",
+    "last_updated": "2026-10-25T11:56:01.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
@@ -739,7 +739,7 @@
       "open_issues": 21,
       "owner": "jorgebucaran",
       "repo": "awsm.fish",
-      "stars": 5103,
+      "stars": 5106,
       "topics": [
         "awesome",
         "fish",
