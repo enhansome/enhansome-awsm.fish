@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-10-22T17:21:51Z",
-            "open_issues": 562,
+            "open_issues": 564,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34346,
+            "stars": 34354,
             "topics": [
               "fish",
               "rust",
@@ -82,7 +82,7 @@
             "open_issues": 161,
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4298,
+            "stars": 4299,
             "topics": [
               "fish",
               "fish-plugin",
@@ -108,7 +108,7 @@
             "open_issues": 13,
             "owner": "pure-fish",
             "repo": "pure",
-            "stars": 1603,
+            "stars": 1604,
             "topics": [
               "fish",
               "fish-plugin",
@@ -169,7 +169,7 @@
             "open_issues": 17,
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9451,
+            "stars": 9452,
             "topics": [
               "fish",
               "fish-plugin",
@@ -194,7 +194,7 @@
             "open_issues": 13,
             "owner": "jorgebucaran",
             "repo": "nvm.fish",
-            "stars": 2721,
+            "stars": 2720,
             "topics": [
               "fish",
               "fish-plugin",
@@ -220,7 +220,7 @@
             "open_issues": 1,
             "owner": "PatrickF1",
             "repo": "fzf.fish",
-            "stars": 2706,
+            "stars": 2707,
             "topics": [
               "cli",
               "command-history",
@@ -512,6 +512,34 @@
         },
         {
           "node_type": "item",
+          "title": "Abbreviation Tips",
+          "description": "Remembering abbreviations by displaying tips when you can use them",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "💡 Help you remembering your abbreviations",
+            "homepage": null,
+            "id": 255135894,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2024-02-06T20:09:47Z",
+            "open_issues": 6,
+            "owner": "gazorby",
+            "repo": "fish-abbreviation-tips",
+            "stars": 385,
+            "topics": [
+              "abbreviation",
+              "abbreviations",
+              "abbreviations-tips",
+              "fish",
+              "fish-plugin",
+              "fisher"
+            ]
+          },
+          "first_seen": "2026-08-28T18:57:48.807Z"
+        },
+        {
+          "node_type": "item",
           "title": "Fundle",
           "description": "-based plugin manager",
           "children": [],
@@ -530,34 +558,6 @@
             "topics": [
               "fish",
               "fish-plugins"
-            ]
-          },
-          "first_seen": "2026-08-28T18:57:48.807Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Abbreviation Tips",
-          "description": "Remembering abbreviations by displaying tips when you can use them",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "💡 Help you remembering your abbreviations",
-            "homepage": null,
-            "id": 255135894,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2024-02-06T20:09:47Z",
-            "open_issues": 6,
-            "owner": "gazorby",
-            "repo": "fish-abbreviation-tips",
-            "stars": 384,
-            "topics": [
-              "abbreviation",
-              "abbreviations",
-              "abbreviations-tips",
-              "fish",
-              "fish-plugin",
-              "fisher"
             ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T13:28:27.960Z",
+    "last_updated": "2026-10-27T12:36:20.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
