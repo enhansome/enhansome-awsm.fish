@@ -19,7 +19,7 @@
             "open_issues": 567,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34366,
+            "stars": 34369,
             "topics": [
               "fish",
               "rust",
@@ -51,7 +51,7 @@
             "open_issues": 2,
             "owner": "jorgebucaran",
             "repo": "cookbook.fish",
-            "stars": 2152,
+            "stars": 2151,
             "topics": [
               "cookbook",
               "fish",
@@ -82,7 +82,7 @@
             "open_issues": 161,
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4304,
+            "stars": 4305,
             "topics": [
               "fish",
               "fish-plugin",
@@ -108,7 +108,7 @@
             "open_issues": 13,
             "owner": "pure-fish",
             "repo": "pure",
-            "stars": 1605,
+            "stars": 1606,
             "topics": [
               "fish",
               "fish-plugin",
@@ -194,7 +194,7 @@
             "open_issues": 13,
             "owner": "jorgebucaran",
             "repo": "nvm.fish",
-            "stars": 2720,
+            "stars": 2719,
             "topics": [
               "fish",
               "fish-plugin",
@@ -343,7 +343,7 @@
             "open_issues": 9,
             "owner": "jorgebucaran",
             "repo": "autopair.fish",
-            "stars": 586,
+            "stars": 587,
             "topics": [
               "commandline",
               "fish",
@@ -446,7 +446,7 @@
             "open_issues": 2,
             "owner": "meaningful-ooo",
             "repo": "sponge",
-            "stars": 456,
+            "stars": 457,
             "topics": [
               "command-history",
               "fish",
@@ -486,6 +486,30 @@
         },
         {
           "node_type": "item",
+          "title": "Fundle",
+          "description": "-based plugin manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A minimalist package manager for fish shell",
+            "homepage": null,
+            "id": 45519340,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2023-01-05T16:21:45Z",
+            "open_issues": 12,
+            "owner": "danhper",
+            "repo": "fundle",
+            "stars": 386,
+            "topics": [
+              "fish",
+              "fish-plugins"
+            ]
+          },
+          "first_seen": "2026-08-28T18:57:48.807Z"
+        },
+        {
+          "node_type": "item",
           "title": "Abbreviation Tips",
           "description": "Remembering abbreviations by displaying tips when you can use them",
           "children": [],
@@ -508,30 +532,6 @@
               "fish",
               "fish-plugin",
               "fisher"
-            ]
-          },
-          "first_seen": "2026-08-28T18:57:48.807Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Fundle",
-          "description": "-based plugin manager",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A minimalist package manager for fish shell",
-            "homepage": null,
-            "id": 45519340,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2023-01-05T16:21:45Z",
-            "open_issues": 12,
-            "owner": "danhper",
-            "repo": "fundle",
-            "stars": 385,
-            "topics": [
-              "fish",
-              "fish-plugins"
             ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T13:36:36.440Z",
+    "last_updated": "2026-10-30T13:25:20.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
@@ -739,7 +739,7 @@
       "open_issues": 21,
       "owner": "jorgebucaran",
       "repo": "awsm.fish",
-      "stars": 5108,
+      "stars": 5109,
       "topics": [
         "awesome",
         "fish",
