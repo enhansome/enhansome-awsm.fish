@@ -15,11 +15,11 @@
             "id": 4279682,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T14:08:10Z",
-            "open_issues": 571,
+            "last_commit": "2026-11-03T07:55:02Z",
+            "open_issues": 570,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34391,
+            "stars": 34396,
             "topics": [
               "fish",
               "rust",
@@ -51,7 +51,7 @@
             "open_issues": 2,
             "owner": "jorgebucaran",
             "repo": "cookbook.fish",
-            "stars": 2151,
+            "stars": 2152,
             "topics": [
               "cookbook",
               "fish",
@@ -78,11 +78,11 @@
             "id": 252351960,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-02T04:23:57Z",
+            "last_commit": "2026-11-02T23:23:31Z",
             "open_issues": 96,
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4302,
+            "stars": 4299,
             "topics": [
               "fish",
               "fish-plugin",
@@ -169,7 +169,7 @@
             "open_issues": 17,
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9457,
+            "stars": 9458,
             "topics": [
               "fish",
               "fish-plugin",
@@ -194,7 +194,7 @@
             "open_issues": 13,
             "owner": "jorgebucaran",
             "repo": "nvm.fish",
-            "stars": 2721,
+            "stars": 2720,
             "topics": [
               "fish",
               "fish-plugin",
@@ -343,7 +343,7 @@
             "open_issues": 9,
             "owner": "jorgebucaran",
             "repo": "autopair.fish",
-            "stars": 587,
+            "stars": 588,
             "topics": [
               "commandline",
               "fish",
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T16:28:56.366Z",
+    "last_updated": "2026-11-03T14:35:05.599Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
