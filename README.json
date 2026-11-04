@@ -15,11 +15,11 @@
             "id": 4279682,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T07:55:02Z",
+            "last_commit": "2026-11-03T20:03:33Z",
             "open_issues": 570,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34396,
+            "stars": 34394,
             "topics": [
               "fish",
               "rust",
@@ -343,7 +343,7 @@
             "open_issues": 9,
             "owner": "jorgebucaran",
             "repo": "autopair.fish",
-            "stars": 588,
+            "stars": 587,
             "topics": [
               "commandline",
               "fish",
@@ -368,7 +368,7 @@
             "open_issues": 18,
             "owner": "acomagu",
             "repo": "fish-async-prompt",
-            "stars": 551,
+            "stars": 552,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
@@ -510,34 +510,6 @@
         },
         {
           "node_type": "item",
-          "title": "Abbreviation Tips",
-          "description": "Remembering abbreviations by displaying tips when you can use them",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "💡 Help you remembering your abbreviations",
-            "homepage": null,
-            "id": 255135894,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2024-02-06T20:09:47Z",
-            "open_issues": 6,
-            "owner": "gazorby",
-            "repo": "fish-abbreviation-tips",
-            "stars": 386,
-            "topics": [
-              "abbreviation",
-              "abbreviations",
-              "abbreviations-tips",
-              "fish",
-              "fish-plugin",
-              "fisher"
-            ]
-          },
-          "first_seen": "2026-08-28T18:57:48.807Z"
-        },
-        {
-          "node_type": "item",
           "title": "Fishtape",
           "description": "TAP-based test runner for Fish",
           "children": [],
@@ -558,6 +530,34 @@
               "fish-plugin",
               "tap",
               "test"
+            ]
+          },
+          "first_seen": "2026-08-28T18:57:48.807Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Abbreviation Tips",
+          "description": "Remembering abbreviations by displaying tips when you can use them",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "💡 Help you remembering your abbreviations",
+            "homepage": null,
+            "id": 255135894,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2024-02-06T20:09:47Z",
+            "open_issues": 6,
+            "owner": "gazorby",
+            "repo": "fish-abbreviation-tips",
+            "stars": 385,
+            "topics": [
+              "abbreviation",
+              "abbreviations",
+              "abbreviations-tips",
+              "fish",
+              "fish-plugin",
+              "fisher"
             ]
           },
           "first_seen": "2026-08-28T18:57:48.807Z"
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T14:35:05.599Z",
+    "last_updated": "2026-11-04T14:49:01.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
@@ -739,7 +739,7 @@
       "open_issues": 21,
       "owner": "jorgebucaran",
       "repo": "awsm.fish",
-      "stars": 5113,
+      "stars": 5114,
       "topics": [
         "awesome",
         "fish",
