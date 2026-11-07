@@ -19,7 +19,7 @@
             "open_issues": 570,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34407,
+            "stars": 34412,
             "topics": [
               "fish",
               "rust",
@@ -82,7 +82,7 @@
             "open_issues": 96,
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4302,
+            "stars": 4304,
             "topics": [
               "fish",
               "fish-plugin",
@@ -169,7 +169,7 @@
             "open_issues": 17,
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9461,
+            "stars": 9460,
             "topics": [
               "fish",
               "fish-plugin",
@@ -220,7 +220,7 @@
             "open_issues": 1,
             "owner": "PatrickF1",
             "repo": "fzf.fish",
-            "stars": 2709,
+            "stars": 2710,
             "topics": [
               "cli",
               "command-history",
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T14:32:07.188Z",
+    "last_updated": "2026-11-07T13:28:00.946Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
