@@ -2,7 +2,7 @@
 
 > Fish is the sassy & user-friendly command line shell you never knew you needed for Linux, macOS, and the whole gang. Out with the old-fashioned shells that skimp on features for the sake of every last byte of RAM—finally, a command line shell for the 90s!
 
-Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other [Fish](https://fishshell.com/) goodies. You see, this isn't just any collection—we curate only the best of the best Fish projects for your friendly interactive shell. Got a top-notch project you want featured here? [Send us a pull request](https://github.com/jorgebucaran/awesome-fish/fork) ⭐ 5,118 | 🐛 21 | 📅 2026-01-25, join the crew!
+Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other [Fish](https://fishshell.com/) goodies. You see, this isn't just any collection—we curate only the best of the best Fish projects for your friendly interactive shell. Got a top-notch project you want featured here? [Send us a pull request](https://github.com/jorgebucaran/awesome-fish/fork) ⭐ 5,117 | 🐛 21 | 📅 2026-01-25, join the crew!
 
 ## Contents
 
@@ -14,12 +14,12 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 
 ## Official Resources
 
-* [GitHub Repository](https://github.com/fish-shell/fish-shell) ⭐ 34,457 | 🐛 575 | 🌐 Rust | 📅 2026-11-11
+* [GitHub Repository](https://github.com/fish-shell/fish-shell) ⭐ 34,468 | 🐛 575 | 🌐 Rust | 📅 2026-11-11
 * [Official Site](https://fishshell.com)
 
 ## Community Resources
 
-* [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) ⭐ 2,154 | 🐛 2 | 📅 2023-09-04 - From Shell to Plate: Savor the Zest of Fish 🦞
+* [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) ⭐ 2,153 | 🐛 2 | 📅 2023-09-04 - From Shell to Plate: Savor the Zest of Fish 🦞
 * [r/fishshell](https://www.reddit.com/r/fishshell) - The Reddit hangout
 * [Gitter Channel](https://gitter.im/fish-shell/fish-shell) - Come chat with us!
 * [Stack Overflow `#fish`](https://stackoverflow.com/questions/tagged/fish) - Got questions? We've got answers!
@@ -27,19 +27,19 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 ## Prompts
 
 * [Tide](https://github.com/IlanCosman/tide) ⭐ 4,305 | 🐛 98 | 🌐 Shell | 📅 2026-11-09 - A modern prompt manager for Fish
-* [Pure](https://github.com/pure-fish/pure/) ⭐ 1,612 | 🐛 13 | 🌐 Shell | 📅 2026-11-10 - [*That*](https://github.com/sindresorhus/pure) ⭐ 14,465 | 🐛 0 | 🌐 Shell | 📅 2026-10-07 ZSH prompt, now in Fish flavor
+* [Pure](https://github.com/pure-fish/pure/) ⭐ 1,613 | 🐛 14 | 🌐 Shell | 📅 2026-11-10 - [*That*](https://github.com/sindresorhus/pure) ⭐ 14,466 | 🐛 0 | 🌐 Shell | 📅 2026-10-07 ZSH prompt, now in Fish flavor
 * [Hydro](https://github.com/jorgebucaran/hydro) ⭐ 982 | 🐛 22 | 🌐 Shell | 📅 2026-02-24 - Lag-free prompt with async Git status (ooh la la)
 
 ## Plugins
 
 * [Fisher](https://github.com/jorgebucaran/fisher) ⭐ 9,462 | 🐛 17 | 🌐 Shell | 📅 2026-11-09 - Manage functions, completions, bindings, and snippets from the CLI
-* [nvm](https://github.com/jorgebucaran/nvm.fish) ⭐ 2,724 | 🐛 14 | 🌐 Shell | 📅 2026-06-22 - Node.js version manager lovingly made for Fish
-* [fzf](https://github.com/PatrickF1/fzf.fish) ⭐ 2,711 | 🐛 1 | 🌐 Shell | 📅 2026-06-18 - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf) ⭐ 84,176 | 🐛 333 | 🌐 Go | 📅 2026-11-12. ([Alternative](https://github.com/jethrokuan/fzf) ⭐ 908 | 🐛 28 | 🌐 Shell | 📅 2022-03-05)
-* [z](https://github.com/jethrokuan/z) ⭐ 1,536 | 🐛 19 | 🌐 Shell | 📅 2026-04-16 - Pure-Fish [`rupa/z`](https://github.com/rupa/z) ⭐ 17,072 | 🐛 109 | 🌐 Shell | 📅 2024-06-19-like directory jumping
-* [Virtualfish](https://github.com/adambrenecki/virtualfish) ⭐ 1,095 | 🐛 26 | 🌐 Shell | 📅 2024-11-27 - Virtualenv wrapper
-* [Done](https://github.com/franciscolourenco/done) ⭐ 967 | 🐛 22 | 🌐 Shell | 📅 2026-06-14 - Automatically receive notifications after a long process finishes
+* [nvm](https://github.com/jorgebucaran/nvm.fish) ⭐ 2,724 | 🐛 15 | 🌐 Shell | 📅 2026-06-22 - Node.js version manager lovingly made for Fish
+* [fzf](https://github.com/PatrickF1/fzf.fish) ⭐ 2,711 | 🐛 1 | 🌐 Shell | 📅 2026-06-18 - Ef-🐟-ient key bindings for [`junegunn/fzf`](https://github.com/junegunn/fzf) ⭐ 84,201 | 🐛 333 | 🌐 Go | 📅 2026-11-12. ([Alternative](https://github.com/jethrokuan/fzf) ⭐ 908 | 🐛 28 | 🌐 Shell | 📅 2022-03-05)
+* [z](https://github.com/jethrokuan/z) ⭐ 1,536 | 🐛 19 | 🌐 Shell | 📅 2026-04-16 - Pure-Fish [`rupa/z`](https://github.com/rupa/z) ⭐ 17,071 | 🐛 109 | 🌐 Shell | 📅 2024-06-19-like directory jumping
+* [Virtualfish](https://github.com/adambrenecki/virtualfish) ⭐ 1,096 | 🐛 26 | 🌐 Shell | 📅 2024-11-27 - Virtualenv wrapper
+* [Done](https://github.com/franciscolourenco/done) ⭐ 967 | 🐛 23 | 🌐 Shell | 📅 2026-06-14 - Automatically receive notifications after a long process finishes
 * [Autopair](https://github.com/jorgebucaran/autopair.fish) ⭐ 587 | 🐛 9 | 🌐 Shell | 📅 2022-07-04 - Auto-complete matching pairs in the Fish command-line. ([Alternative](https://github.com/laughedelic/pisces) ⭐ 300 | 🐛 7 | 🌐 Shell | 📅 2020-11-30)
-* [Async Prompt](https://github.com/acomagu/fish-async-prompt) ⭐ 553 | 🐛 18 | 🌐 Shell | 📅 2026-01-05 - Make your prompt asynchronous
+* [Async Prompt](https://github.com/acomagu/fish-async-prompt) ⭐ 554 | 🐛 18 | 🌐 Shell | 📅 2026-01-05 - Make your prompt asynchronous
 * [GitNow](https://github.com/joseluisq/gitnow) ⭐ 491 | 🐛 12 | 🌐 Shell | 📅 2026-09-01 - A collection of utility functions to speed up your git workflow
 * [Replay](https://github.com/jorgebucaran/replay.fish) ⭐ 485 | 🐛 1 | 🌐 Shell | 📅 2024-07-01 - Run Bash commands replaying changes in Fish. ([Alternative](https://github.com/edc/bass) ⭐ 2,464 | 🐛 15 | 🌐 Python | 📅 2023-12-16)
 * [Sponge](https://github.com/meaningful-ooo/sponge) ⭐ 458 | 🐛 2 | 🌐 Shell | 📅 2024-01-21 - Clean command history from typos automatically
@@ -61,4 +61,4 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
