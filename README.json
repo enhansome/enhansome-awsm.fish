@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-11-11T06:11:07Z",
-            "open_issues": 576,
+            "open_issues": 577,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34454,
+            "stars": 34455,
             "topics": [
               "fish",
               "rust",
@@ -51,7 +51,7 @@
             "open_issues": 2,
             "owner": "jorgebucaran",
             "repo": "cookbook.fish",
-            "stars": 2153,
+            "stars": 2154,
             "topics": [
               "cookbook",
               "fish",
@@ -190,7 +190,7 @@
             "id": 56083732,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-06-22T12:19:19Z",
+            "last_commit": "2026-11-14T18:15:11Z",
             "open_issues": 14,
             "owner": "jorgebucaran",
             "repo": "nvm.fish",
@@ -258,7 +258,7 @@
             "open_issues": 19,
             "owner": "jethrokuan",
             "repo": "z",
-            "stars": 1536,
+            "stars": 1537,
             "topics": [
               "fish",
               "fish-plugin",
@@ -312,7 +312,7 @@
             "open_issues": 23,
             "owner": "franciscolourenco",
             "repo": "done",
-            "stars": 967,
+            "stars": 968,
             "topics": [
               "fish",
               "fish-packages",
@@ -446,7 +446,7 @@
             "open_issues": 2,
             "owner": "meaningful-ooo",
             "repo": "sponge",
-            "stars": 458,
+            "stars": 459,
             "topics": [
               "command-history",
               "fish",
@@ -500,7 +500,7 @@
             "open_issues": 12,
             "owner": "danhper",
             "repo": "fundle",
-            "stars": 386,
+            "stars": 387,
             "topics": [
               "fish",
               "fish-plugins"
@@ -520,8 +520,8 @@
             "id": 31851515,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-14T10:43:42Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-14T17:29:31Z",
+            "open_issues": 2,
             "owner": "jorgebucaran",
             "repo": "fishtape",
             "stars": 385,
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T13:44:56.912Z",
+    "last_updated": "2026-11-15T14:14:56.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
@@ -739,7 +739,7 @@
       "open_issues": 20,
       "owner": "jorgebucaran",
       "repo": "awsm.fish",
-      "stars": 5117,
+      "stars": 5118,
       "topics": [
         "awesome",
         "fish",
