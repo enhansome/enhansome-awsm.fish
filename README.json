@@ -15,11 +15,11 @@
             "id": 4279682,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T06:11:07Z",
-            "open_issues": 578,
+            "last_commit": "2026-11-16T16:43:22Z",
+            "open_issues": 580,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34460,
+            "stars": 34466,
             "topics": [
               "fish",
               "rust",
@@ -82,7 +82,7 @@
             "open_issues": 98,
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4304,
+            "stars": 4305,
             "topics": [
               "fish",
               "fish-plugin",
@@ -137,7 +137,7 @@
             "open_issues": 22,
             "owner": "jorgebucaran",
             "repo": "hydro",
-            "stars": 982,
+            "stars": 983,
             "topics": [
               "async",
               "fish",
@@ -169,7 +169,7 @@
             "open_issues": 18,
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9461,
+            "stars": 9462,
             "topics": [
               "fish",
               "fish-plugin",
@@ -190,11 +190,11 @@
             "id": 56083732,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-14T18:15:11Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-17T10:10:09Z",
+            "open_issues": 10,
             "owner": "jorgebucaran",
             "repo": "nvm.fish",
-            "stars": 2724,
+            "stars": 2725,
             "topics": [
               "fish",
               "fish-plugin",
@@ -220,7 +220,7 @@
             "open_issues": 1,
             "owner": "PatrickF1",
             "repo": "fzf.fish",
-            "stars": 2714,
+            "stars": 2715,
             "topics": [
               "cli",
               "command-history",
@@ -524,7 +524,7 @@
             "open_issues": 2,
             "owner": "jorgebucaran",
             "repo": "fishtape",
-            "stars": 385,
+            "stars": 386,
             "topics": [
               "fish",
               "fish-plugin",
@@ -685,7 +685,7 @@
             "open_issues": 2,
             "owner": "mattmc3",
             "repo": "magic-enter.fish",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "fish",
               "fish-plugin",
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T16:18:52.774Z",
+    "last_updated": "2026-11-17T16:24:14.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
@@ -736,10 +736,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-01-25T05:07:30Z",
-      "open_issues": 20,
+      "open_issues": 21,
       "owner": "jorgebucaran",
       "repo": "awsm.fish",
-      "stars": 5118,
+      "stars": 5119,
       "topics": [
         "awesome",
         "fish",
