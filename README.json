@@ -19,7 +19,7 @@
             "open_issues": 585,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34475,
+            "stars": 34484,
             "topics": [
               "fish",
               "rust",
@@ -51,7 +51,7 @@
             "open_issues": 2,
             "owner": "jorgebucaran",
             "repo": "cookbook.fish",
-            "stars": 2156,
+            "stars": 2155,
             "topics": [
               "cookbook",
               "fish",
@@ -104,11 +104,11 @@
             "id": 44034341,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-10T22:05:38Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-20T11:55:07Z",
+            "open_issues": 13,
             "owner": "pure-fish",
             "repo": "pure",
-            "stars": 1614,
+            "stars": 1613,
             "topics": [
               "fish",
               "fish-plugin",
@@ -137,7 +137,7 @@
             "open_issues": 22,
             "owner": "jorgebucaran",
             "repo": "hydro",
-            "stars": 984,
+            "stars": 983,
             "topics": [
               "async",
               "fish",
@@ -220,7 +220,7 @@
             "open_issues": 1,
             "owner": "PatrickF1",
             "repo": "fzf.fish",
-            "stars": 2716,
+            "stars": 2717,
             "topics": [
               "cli",
               "command-history",
@@ -284,7 +284,7 @@
             "open_issues": 26,
             "owner": "justinmayer",
             "repo": "virtualfish",
-            "stars": 1096,
+            "stars": 1095,
             "topics": [
               "fish",
               "fish-shell",
@@ -312,7 +312,7 @@
             "open_issues": 24,
             "owner": "franciscolourenco",
             "repo": "done",
-            "stars": 968,
+            "stars": 967,
             "topics": [
               "fish",
               "fish-packages",
@@ -446,7 +446,7 @@
             "open_issues": 2,
             "owner": "meaningful-ooo",
             "repo": "sponge",
-            "stars": 459,
+            "stars": 457,
             "topics": [
               "command-history",
               "fish",
@@ -500,7 +500,7 @@
             "open_issues": 12,
             "owner": "danhper",
             "repo": "fundle",
-            "stars": 387,
+            "stars": 386,
             "topics": [
               "fish",
               "fish-plugins"
@@ -755,7 +755,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T15:59:35.884Z",
+    "last_updated": "2026-11-20T15:42:55.982Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
@@ -767,7 +767,7 @@
       "open_issues": 19,
       "owner": "jorgebucaran",
       "repo": "awsm.fish",
-      "stars": 5126,
+      "stars": 5125,
       "topics": [
         "awesome",
         "fish",
