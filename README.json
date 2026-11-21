@@ -19,7 +19,7 @@
             "open_issues": 585,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34484,
+            "stars": 34495,
             "topics": [
               "fish",
               "rust",
@@ -51,7 +51,7 @@
             "open_issues": 2,
             "owner": "jorgebucaran",
             "repo": "cookbook.fish",
-            "stars": 2155,
+            "stars": 2154,
             "topics": [
               "cookbook",
               "fish",
@@ -82,7 +82,7 @@
             "open_issues": 98,
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4307,
+            "stars": 4310,
             "topics": [
               "fish",
               "fish-plugin",
@@ -104,7 +104,7 @@
             "id": 44034341,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-20T11:55:07Z",
+            "last_commit": "2026-11-20T22:10:20Z",
             "open_issues": 13,
             "owner": "pure-fish",
             "repo": "pure",
@@ -137,7 +137,7 @@
             "open_issues": 22,
             "owner": "jorgebucaran",
             "repo": "hydro",
-            "stars": 983,
+            "stars": 984,
             "topics": [
               "async",
               "fish",
@@ -169,7 +169,7 @@
             "open_issues": 18,
             "owner": "jorgebucaran",
             "repo": "fisher",
-            "stars": 9463,
+            "stars": 9465,
             "topics": [
               "fish",
               "fish-plugin",
@@ -194,7 +194,7 @@
             "open_issues": 10,
             "owner": "jorgebucaran",
             "repo": "nvm.fish",
-            "stars": 2726,
+            "stars": 2725,
             "topics": [
               "fish",
               "fish-plugin",
@@ -755,7 +755,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T15:42:55.982Z",
+    "last_updated": "2026-11-21T14:53:42.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
@@ -767,7 +767,7 @@
       "open_issues": 19,
       "owner": "jorgebucaran",
       "repo": "awsm.fish",
-      "stars": 5125,
+      "stars": 5127,
       "topics": [
         "awesome",
         "fish",
