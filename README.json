@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-11-25T11:02:50Z",
-            "open_issues": 579,
+            "open_issues": 580,
             "owner": "fish-shell",
             "repo": "fish-shell",
-            "stars": 34531,
+            "stars": 34549,
             "topics": [
               "fish",
               "rust",
@@ -82,7 +82,7 @@
             "open_issues": 98,
             "owner": "IlanCosman",
             "repo": "tide",
-            "stars": 4314,
+            "stars": 4313,
             "topics": [
               "fish",
               "fish-plugin",
@@ -258,7 +258,7 @@
             "open_issues": 20,
             "owner": "jethrokuan",
             "repo": "z",
-            "stars": 1536,
+            "stars": 1537,
             "topics": [
               "fish",
               "fish-plugin",
@@ -312,7 +312,7 @@
             "open_issues": 24,
             "owner": "franciscolourenco",
             "repo": "done",
-            "stars": 968,
+            "stars": 970,
             "topics": [
               "fish",
               "fish-packages",
@@ -343,7 +343,7 @@
             "open_issues": 9,
             "owner": "jorgebucaran",
             "repo": "autopair.fish",
-            "stars": 586,
+            "stars": 587,
             "topics": [
               "commandline",
               "fish",
@@ -420,7 +420,7 @@
             "open_issues": 1,
             "owner": "jorgebucaran",
             "repo": "replay.fish",
-            "stars": 485,
+            "stars": 486,
             "topics": [
               "bash",
               "env",
@@ -755,7 +755,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T17:32:38.166Z",
+    "last_updated": "2026-11-26T17:14:51.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curation of prompts, plugins & other Fish treasures 🐚💎",
@@ -767,7 +767,7 @@
       "open_issues": 19,
       "owner": "jorgebucaran",
       "repo": "awsm.fish",
-      "stars": 5130,
+      "stars": 5131,
       "topics": [
         "awesome",
         "fish",
